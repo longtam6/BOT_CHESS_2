@@ -1,0 +1,5 @@
+data
+node_modules
+commands/test.js
+.vscode
+.env
